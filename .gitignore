@@ -1,0 +1,5 @@
+# Ignorar la carpeta .deps
+.deps/
+
+# Ignorar la carpeta artifacts dentro de contracts
+contracts/artifacts/
