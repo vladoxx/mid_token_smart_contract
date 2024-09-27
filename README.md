@@ -58,7 +58,8 @@ O contrato principal do token que herda da `SafeMath` e implementa a interface `
 #
 
 ### Etherscan
-![]
+![Etherscan](https://github.com/user-attachments/assets/bf1749d4-230c-4877-bf1d-294958b140ee)
 
 ### Metamask
-![]
+![Carteira de Metamask](https://github.com/user-attachments/assets/870b3f3d-783f-498a-9d2d-7b5a4dc419b9)
+
